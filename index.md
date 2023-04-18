@@ -1,4 +1,4 @@
-<iframe style="width: 100%;
+<iframe style="width: -webkit-fill-available;
               height: -webkit-fill-available;
               position: absolute;
               top: 0;
